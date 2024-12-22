@@ -1,1 +1,1 @@
-module SourcePac
+module github.com/SimonMorphy/SourcePac
